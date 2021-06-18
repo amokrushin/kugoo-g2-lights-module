@@ -1,0 +1,1 @@
+![Electronic circuit diagram](docs/image_2021-06-18_17-54-10.png)
