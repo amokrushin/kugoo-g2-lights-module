@@ -1,1 +1,1 @@
-![Electronic circuit diagram](docs/image_2021-06-18_17-54-10.png)
+![Electronic circuit diagram](docs/electronic_circuit_diagram_preview.png)
